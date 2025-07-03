@@ -1,0 +1,3 @@
+KERNEL_INCLUDES := .
+
+TESTCFG := lab2_mm 
